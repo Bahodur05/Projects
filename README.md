@@ -1,5 +1,4 @@
 # Projects
-About My Projects
 Welcome to my GitHub repository! Here, you'll find a collection of projects that showcase my skills and experience in software development, data analysis, and problem-solving. These projects demonstrate my ability to apply theoretical knowledge to practical scenarios and include detailed code implementations, interactive features, and thoughtful design.
 
 Current Projects
